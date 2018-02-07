@@ -1,0 +1,2 @@
+# ANN-MNIST-classifier
+A simple artificial neural network (ANN) implementation for classifying handwritten digits in the MNIST dataset
